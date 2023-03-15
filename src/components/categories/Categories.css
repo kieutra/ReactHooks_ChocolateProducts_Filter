@@ -1,0 +1,10 @@
+.btn{
+  background-color: transparent;
+}
+.btn:hover{
+  background-color: silver;
+  color: black;
+}
+.category{
+  min-width: 100px;
+}
